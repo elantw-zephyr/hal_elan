@@ -1,4 +1,4 @@
-
+#include "em32f967.h"
 #include "soc_967.h"
 #include <zephyr/logging/log.h>
 LOG_MODULE_REGISTER(em32f967_hal, LOG_LEVEL_DBG);
